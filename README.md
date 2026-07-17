@@ -1,10 +1,27 @@
-Hi, I’m @XeroDN
-I’m interested in AI/ML, 
-I’m currently learning 
-I’m looking to collaborate on ...
-📫 How to reach me ...
-Pronouns: He/him
-Fun fact: ...
+# XeroDN
+
+**Aspiring AI & Machine Learning Engineer**
+
+Building practical AI and data-driven applications with Python.
+
+## About
+
+* Currently learning AI, Machine Learning, Data Science, and Backend Development.
+* Passionate about solving real-world problems through technology.
+* Continuously improving through projects and open-source contributions.
+
+## Tech
+
+`Python` · `NumPy` · `Pandas` · `SQL` · `Git` · `GitHub`
+
+## Current Goal
+
+Develop production-ready AI applications and contribute to impactful open-source projects.
+
+## Contact
+
+Email: [your-email@example.com](mailto:your-email@example.com)
+
 
 <!---
 XeroDN/XeroDN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
