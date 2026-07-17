@@ -20,7 +20,7 @@ Develop production-ready AI applications and contribute to impactful open-source
 
 ## Contact
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: rananiroj69@gmail.com
 
 
 <!---
